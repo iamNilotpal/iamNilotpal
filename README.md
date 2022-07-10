@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nilotpla</h1>
+<h1 align="center">Hi 👋, I'm Nilotpal</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 - 🔭 I’m currently working on [Talky - Realtime Voice Chat](https://github.com/iamNilotpal/talky-frontend)
