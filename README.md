@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Talky - Realtime Voice Chat](https://github.com/iamNilotpal/talky-frontend)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **iamnilotpaldeka@gmail.com**
 
