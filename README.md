@@ -1,6 +1,6 @@
 ## Hey There!👋 
 
-I'm Nilotpal Deka, A software engineer from Assam, India.<br><br>I'm a software engineer specializing in Full-Stack Web Development.<br><br>Thanks for stopping by!
+I'm **Nilotpal Deka**, A software engineer from **Assam, India.**<br><br>I'm a software engineer specializing in **Full-Stack Web Development**.<br><br>Thanks for stopping by!
 
 
 ## 🌐 Socials:
