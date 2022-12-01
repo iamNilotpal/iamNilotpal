@@ -1,9 +1,9 @@
 ![Banner](banner.png)
 
 ## Hi, I'm **Nilotpal Deka**
-A Software Engineer Specializing in **Full-Stack Web Development**.
+**A Software Engineer Specialized in Full-Stack Web Development.
 <br/>
-Thanks for stopping by!
+Thanks for stopping by!**
 
 
 ## 🌐 Socials:
