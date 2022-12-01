@@ -1,6 +1,9 @@
 ![Banner](banner.png)
 
-I'm **Nilotpal Deka**, A software engineer from **Assam, India.**<br><br>I'm a software engineer specializing in **Full-Stack Web Development**.<br><br>Thanks for stopping by!
+## Hi, I'm **Nilotpal Deka**
+A Software Engineer Specializing in **Full-Stack Web Development**.
+<br/>
+Thanks for stopping by!
 
 
 ## 🌐 Socials:
