@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-👋 Hi there! I'm **Nilotpal Deka**, a passionate software engineer with 2 years of experience in both backend and frontend development. I enjoy crafting efficient and scalable web applications. Currently, I'm developing a Synthetic Monitoring tool for website and API tracking and a Real User Monitoring (RUM) tool for optimizing user experience through Core Web Vitals metrics. Explore my projects to see my work!
+👋 Hi there! I'm **Nilotpal Deka**, Software engineer with 2+ years of experience in both backend and frontend development. As a software engineer, I find joy in turning complex challenges into intuitive solutions that genuinely enhance user experiences. Currently, I'm wokring on Write Ahead Log Implementation of Go. Explore my projects to see my work!
 
 
 ## 🌐 Socials:
